@@ -3,3 +3,4 @@ Entrei na faculdade de Fisioterapia aos 17 e me formei aos 21 anos. Trabalhei po
 Agora, apos estes anos de trabalho, sinto a necessidade de cuidar do meu futuro e construir uma carreira em um setor mais solido e promissor, como o da tecnologia. 
 Sou apaixonado por carros e espero, em breve, poder unir minha futura carreira a minha paixao
 Estou editando esta bio para treinar o Update do GitHub
+Editei de novo
